@@ -11,6 +11,7 @@ namespace vjezba1PIS
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
+            Console.WriteLine("Ovo je prva promjena u kodu!");
         }
     }
 }
