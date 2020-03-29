@@ -8,5 +8,7 @@ namespace vjezba1PIS
 {
     class Class1
     {
+        static void janinafunkcija()
+        {}
     }
 }
