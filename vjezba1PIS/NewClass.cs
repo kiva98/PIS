@@ -12,5 +12,7 @@ namespace vjezba1PIS
         
         }
           
+        static void janinafunkcija()
+        {}
     }
 }
