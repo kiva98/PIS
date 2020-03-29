@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace vjezba1PIS
 {
-    class Class1
+    class NewClass
     {
+        static void metoda() { 
+        
+        }
+          
     }
 }
